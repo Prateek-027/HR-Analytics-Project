@@ -1,0 +1,11 @@
+department_id,department_name,location,budget
+1,HR,Mumbai,8204212
+2,IT,Delhi,5472471
+3,Finance,Hyderabad,5523669
+4,Sales,Mumbai,8404852
+5,Marketing,Mumbai,5981505
+6,Operations,Delhi,2766891
+7,Legal,Hyderabad,5521373
+8,Admin,Hyderabad,7019877
+9,R&D,Mumbai,4344769
+10,Support,Bangalore,1103355
